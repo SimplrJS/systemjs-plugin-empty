@@ -1,6 +1,6 @@
 {
   "name": "systemjs-plugin-empty",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SystemJS plugin to ignore files",
   "main": "empty.js",
   "registry": "jspm",
