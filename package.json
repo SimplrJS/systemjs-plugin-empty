@@ -1,0 +1,18 @@
+{
+  "name": "systemjs-plugin-empty",
+  "version": "0.0.1",
+  "description": "SystemJS plugin to ignore files",
+  "main": "empty.js",
+  "registry": "jspm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimplrJS/systemjs-plugin-empty.git"
+  },
+  "keywords": [],
+  "author": "Giedrius Grabauskas <giedrius@quatrodev.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SimplrJS/systemjs-plugin-empty/issues"
+  },
+  "homepage": "https://github.com/SimplrJS/systemjs-plugin-empty#readme"
+}
