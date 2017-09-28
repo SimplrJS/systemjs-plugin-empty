@@ -1,3 +1,3 @@
-export function fetch(uri) {
+exports.fetch = function(uri) {
     return "";
 }
